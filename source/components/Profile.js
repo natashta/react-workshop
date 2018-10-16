@@ -11,6 +11,12 @@ export default class Profile extends Component {
                 />
                 <div className = 'main'>
                     <span className = 'nickname'>nasa</span>
+                    <div className = 'stats'>
+                        <div>
+                            <span>2,436&nbsp;</span>
+                            posts
+                        </div>
+                    </div>
                 </div>
             </div>
         );
