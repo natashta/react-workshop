@@ -5,6 +5,7 @@ export default class Instagram extends Component {
         return (
             <>
                 <div>Header</div>
+                <div>Content</div>
             </>
         );
     }
