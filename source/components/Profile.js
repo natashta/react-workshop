@@ -25,6 +25,7 @@ export default class Profile extends Component {
                             following
                         </div>
                     </div>
+                    <span className = 'name'>nasa</span>
                 </div>
             </div>
         );
