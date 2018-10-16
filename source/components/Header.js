@@ -9,6 +9,9 @@ export default class Header extends Component {
                     placeholder = 'Search'
                     type = 'text'
                 />
+                <div className = 'nav'>
+                    
+                </div>
             </div>
         );
     }
