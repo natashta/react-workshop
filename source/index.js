@@ -7,7 +7,7 @@ import './theme/init';
 
 export default class Instagram extends Component {
     render() {
-        return <div className = 'start'>Поехали!</div>;
+        return <div className = 'start'>Поехали!!!</div>;
     }
 }
 
