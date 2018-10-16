@@ -16,6 +16,14 @@ export default class Profile extends Component {
                             <span>2,436&nbsp;</span>
                             posts
                         </div>
+                        <div>
+                            <span>34.9m&nbsp;</span>
+                            followers
+                        </div>
+                        <div>
+                            <span>78&nbsp;</span>
+                            following
+                        </div>
                     </div>
                 </div>
             </div>
