@@ -9,6 +9,9 @@ export default class Profile extends Component {
                     className = 'avatar'
                     src = { avatar }
                 />
+                <div className = 'main'>
+                    <span className = 'nickname'>nasa</span>
+                </div>
             </div>
         );
     }
