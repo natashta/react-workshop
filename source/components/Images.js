@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import Profile from '../components/Profile';
+import images from '../theme/assets/images';
 
-export default class Content extends Component {
+export default class Images extends Component {
     render() {
         return (
-            <div className = 'content'>
-                <Profile />
+            <div className = 'images'>
                 <div>Images</div>
             </div>
         );
