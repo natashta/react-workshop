@@ -10,7 +10,9 @@ export default class Header extends Component {
                     type = 'text'
                 />
                 <div className = 'nav'>
-                    
+                    <div className = 'explore' />
+                    <div className = 'likes' />
+                    <div className = 'settings' />
                 </div>
             </div>
         );
